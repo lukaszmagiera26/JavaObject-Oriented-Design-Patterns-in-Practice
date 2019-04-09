@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1068bcb1-2400-4b27-b8b6-b5ecf3faad40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/SurroundSoundSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/remotes/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/user/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/clients/DeviceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/GeneralManufacturingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/LaptopManufacturingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/SmartphoneManufacturingProcess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/Device.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/src/devices/Projector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,7 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554811065781" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554816483606" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
