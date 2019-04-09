@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d280aa-e62d-46cb-ae18-a91bb20cd4d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/clients/DeviceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/GeneralManufacturingProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/LaptopManufacturingProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DependencyInversionSolution/src/processes/SmartphoneManufacturingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/CourseInstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/EnglishTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/SchoolStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/ScienceTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiskovSubstitution/src/SubstituteTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -183,7 +187,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554816483667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554823535249" />
     <property name="last_opened_file_path" value="D:/Dokumenty/Pobrane/Lecture 17 (Dependency Inversion Solution)" />
   </component>
   <component name="RunDashboard">
