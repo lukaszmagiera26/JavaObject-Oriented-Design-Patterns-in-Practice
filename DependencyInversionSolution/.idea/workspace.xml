@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e4342f-0f3a-4e57-b0c0-391d4b5c5a02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/AccountsReceivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/CustomerTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/Reporting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceSegregation/src/RunnerTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76e4342f-0f3a-4e57-b0c0-391d4b5c5a02" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
