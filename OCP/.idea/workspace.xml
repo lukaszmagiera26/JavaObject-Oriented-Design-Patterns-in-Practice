@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1068bcb1-2400-4b27-b8b6-b5ecf3faad40" name="Default Changelist" comment="" />
+    <list default="true" id="1068bcb1-2400-4b27-b8b6-b5ecf3faad40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1928" />
     <option name="y" value="-99" />
     <option name="width" value="1936" />
@@ -191,8 +198,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-99" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-1928" y="-99" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />

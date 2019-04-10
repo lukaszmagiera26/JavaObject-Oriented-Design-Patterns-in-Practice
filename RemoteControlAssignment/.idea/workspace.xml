@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d280aa-e62d-46cb-ae18-a91bb20cd4d5" name="Default Changelist" comment="" />
+    <list default="true" id="69d280aa-e62d-46cb-ae18-a91bb20cd4d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInversionSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

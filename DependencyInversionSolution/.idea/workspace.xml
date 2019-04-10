@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e4342f-0f3a-4e57-b0c0-391d4b5c5a02" name="Default Changelist" comment="" />
+    <list default="true" id="76e4342f-0f3a-4e57-b0c0-391d4b5c5a02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceSegregation/out/production/InterfaceSegregation/RunnerTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LiskovSubstitution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OCP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteControlAssignment/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,8 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31946307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
