@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f4b69a6-8269-4f6c-9939-10911fb2ffd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clients/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parts/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parts/LargeEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parts/SmallEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Pkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Plansza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/Multiscale3/src/Rozrost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/mm5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/AppDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/AutomataResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/ColorHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/EnergyDistributionDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/FurtherMoore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/GrainDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/GrainRemoveDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/GridExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/GridPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/InclusionDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Moore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Neighbourhood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/NewGridDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/ParamDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/RecrystallizationDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/SeedDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/SingleAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/mm5/src/VonNeumann.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale IJ/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Display.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Pkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Plansza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscale2IJ/src/mm99/Rozrost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscaleIJ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscaleIJ/src/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/multiscaleIJ/src/Rekrystalizacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Menu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../workspaceTestLearning/w5/src/Rozrost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/001_PobieranieDanych/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/001_PobieranieDanych/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/001_PobieranieDanych/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/001_PobieranieDanych/bin/PobieranieDanych.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/001_PobieranieDanych/src/PobieranieDanych.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/002_InstrukcjeWarunkowe/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/002_InstrukcjeWarunkowe/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/002_InstrukcjeWarunkowe/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/002_InstrukcjeWarunkowe/bin/InstrukcjeWarunkowe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/002_InstrukcjeWarunkowe/src/InstrukcjeWarunkowe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_InstrukcjeWarunkowe2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_InstrukcjeWarunkowe2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_InstrukcjeWarunkowe2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_InstrukcjeWarunkowe2/bin/InstrukcjeWarunkowe2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_InstrukcjeWarunkowe2/src/InstrukcjeWarunkowe2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_Petle/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_Petle/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_Petle/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_Petle/bin/Petla1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/003_Petle/src/Petla1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/004_Petle/004_Petle/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/004_Petle/004_Petle/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/004_Petle/004_Petle/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/004_Petle/004_Petle/bin/Petla1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/004_Petle/004_Petle/src/Petla1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/005_Switch/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/005_Switch/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/005_Switch/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/005_Switch/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/005_Switch/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/006_Tablice/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/006_Tablice/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/006_Tablice/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/006_Tablice/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/006_Tablice/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/007_KlasaArrays/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/007_KlasaArrays/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/007_KlasaArrays/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/007_KlasaArrays/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/007_KlasaArrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/bin/TablicaDwuwymiarowa2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/bin/TabliceDwuwymiarowe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/src/TablicaDwuwymiarowa2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/008_Tablica dwuwymiarowe/src/TabliceDwuwymiarowe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/009_TablicaNieregularna/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/009_TablicaNieregularna/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/009_TablicaNieregularna/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/009_TablicaNieregularna/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/009_TablicaNieregularna/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/010_Napisy/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/010_Napisy/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/010_Napisy/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/010_Napisy/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/010_Napisy/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/011_Napisy2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/011_Napisy2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/011_Napisy2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/011_Napisy2/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/011_Napisy2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/012_StringBuilder/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/012_StringBuilder/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/012_StringBuilder/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/012_StringBuilder/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/012_StringBuilder/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/013_WyrazeniaRegularne/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/013_WyrazeniaRegularne/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/013_WyrazeniaRegularne/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/013_WyrazeniaRegularne/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/013_WyrazeniaRegularne/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/014_Funkcje/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/014_Funkcje/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/014_Funkcje/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/014_Funkcje/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/014_Funkcje/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/dane.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/odczyt1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/odczyt2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/odczyt3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/odczyt4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/015_OblsugaPlikowTekstowych/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/bin/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/016_KlasaObiekt/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/bin/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/017_MetodyKlasyObject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/bin/Film.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/src/Film.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/018_SkladnikiStatyczneKlasy/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/bin/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/bin/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/019_Dziedziczenie/src/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Kolo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Kwadrat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/bin/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/src/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/src/Kolo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/src/Kwadrat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/20_Abstrakcyjnosc/src/Prostokat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/bin/Nadwozie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/bin/Samochod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/bin/Silnik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/src/Nadwozie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/src/Samochod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/21_Kompozycja/src/Silnik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/bin/MojInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/bin/MojInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/src/MojInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/22_Interfaces/src/MojInterfaceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Konwerter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Operacja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Przetwarzacz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/bin/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Konwerter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Operacja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Przetwarzacz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/23_InterfejsyZastosowanie/src/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/GenericInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/src/GenericInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/24_InterfejsyJava8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/bin/imageviewer/ImageViewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/bin/imageviewer/ImageViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/bin/imageviewer/ImageViewerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/bin/imageviewer/ImageViewerFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/bin/imageviewer/ImageViewerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[047 kay] Imageviewer/src/imageviewer/ImageViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/bin/Menager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/bin/MenagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/src/Menager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[199kay] dziedziczenie/src/MenagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/bin/abstractClasses/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/bin/abstractClasses/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/bin/abstractClasses/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/bin/abstractClasses/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/src/abstractClasses/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/src/abstractClasses/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/src/abstractClasses/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[211kay] abstract/src/abstractClasses/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/bin/EqualsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/bin/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/src/EqualsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[224 kay] equals, hashCode, toString/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/bin/ArrayListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/src/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[232kay] ArrayListTest/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/bin/enums/EnumTest$Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/bin/enums/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[241kay] EnumTest/src/enums/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/bin/EmployeeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[269kay] interfejsy sortowanie/src/EmployeeSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/bin/timer/TimePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/bin/timer/TimerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[280kay] TimerTest/src/timer/TimerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/bin/CloneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/src/CloneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[286kay] CloneTest/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[288kay] Lambda/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[288kay] Lambda/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[288kay] Lambda/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[288kay] Lambda/bin/LambdaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[288kay] Lambda/src/LambdaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/bin/InterClass/InnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/bin/InterClass/TalkingClocks$TimePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/bin/InterClass/TalkingClocks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[304kay] InnerClassTest/src/InterClass/InnerClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/bin/AnonymousInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/bin/TalkingClock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/bin/TalkingClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[314kay] AnonymousInnerClassTest/src/AnonymousInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/bin/staticInnerClass/ArrayAlg$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/bin/staticInnerClass/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/bin/staticInnerClass/StaticinnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[318kay] StaticinnerClassTest/src/staticInnerClass/StaticinnerClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[346kay] StackTraceTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[346kay] StackTraceTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[346kay] StackTraceTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[346kay] StackTraceTest/bin/stackTrace/StackTraceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[346kay] StackTraceTest/src/stackTrace/StackTraceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/ImageViewerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/ImageViewerFrame$FileOpenListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/ImageViewerFrame$FileOpenListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/ImageViewerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/WindowHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/WindowHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/loggingimageviewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/bin/loggingimageviewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[355kay] wyjatki/src/loggingimageviewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/ImageViewerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/ImageViewerFrame$FileOpenListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/ImageViewerFrame$FileOpenListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/ImageViewerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/LoggingImageViewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/LoggingImageViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/WindowHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/bin/logging/WindowHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[365 kay] Wyjatki/src/logging/LoggingImageViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/bin/pair1/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/bin/pair1/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/bin/pair1/PairTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/src/pair1/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[383 kay] PairTest1/src/pair1/PairTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/bin/ArrayAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/bin/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/bin/PairTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/src/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[387kay] Metoda generyczna/src/PairTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/bin/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/bin/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/bin/PairAlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/bin/PairTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/src/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[409 kay] Programowanie generyczne/src/PairTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[414 kay] GenericReflectionTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[414 kay] GenericReflectionTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[414 kay] GenericReflectionTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[414 kay] GenericReflectionTest/bin/GenericReflectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[414 kay] GenericReflectionTest/src/GenericReflectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[438 kay] Kolekcje/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[438 kay] Kolekcje/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[438 kay] Kolekcje/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[438 kay] Kolekcje/bin/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[438 kay] Kolekcje/src/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/alice30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/bin/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[443 kay] SetTest/src/SetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/bin/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/bin/TreeSetTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/bin/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/src/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[444 kay] TreeSetTest/src/TreeSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[450 kay] PriorityQueueTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[450 kay] PriorityQueueTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[450 kay] PriorityQueueTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[450 kay] PriorityQueueTest/bin/PriorityQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[450 kay] PriorityQueueTest/src/PriorityQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/bin/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/bin/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[452 kay ] MapTest/src/MapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[472 kay] ShuffleTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[472 kay] ShuffleTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[472 kay] ShuffleTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[472 kay] ShuffleTest/bin/shuffle/ShuffleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[472 kay] ShuffleTest/src/shuffle/ShuffleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[485kay] Sieve/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[485kay] Sieve/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[485kay] Sieve/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[485kay] Sieve/bin/sieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[485kay] Sieve/src/sieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/BallComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/Bounce$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/Bounce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/BounceFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/BounceFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/bin/bounce/BounceFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/src/bounce/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/src/bounce/BallComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[747kay] Bounce/src/bounce/Bounce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BallComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BallRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BounceFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BounceFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BounceFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BounceThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/bin/bounceThread/BounceThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/src/bounceThread/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/src/bounceThread/BallComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[752kay] BounceThread/src/bounceThread/BounceThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/bin/synch/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/bin/synch/UnsynchBankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/src/synch/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[776kay]Bank/src/synch/UnsynchBankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/bin/synch/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/bin/synch/SynchBankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/src/synch/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVB/[779kay] Bank/src/synch/SynchBankTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vehicles/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parts/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parts/SmallEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parts/LargeEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/clients/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="159" selection-start-line="159" selection-end-line="159" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.jar!/org/springframework/core/io/ClassPathResource.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/vehicleApp/LargeEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vehicles/LargeEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/asda.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/parts/LargeEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parts/SmallEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clients/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-dependency-injection" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-dependency-injection" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-dependency-injection" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-dependency-injection" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-dependency-injection" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-core:5.1.6.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="110" />
+    <option name="y" value="-15" />
+    <option name="width" value="2423" />
+    <option name="height" value="1323" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaObjectOrientedDesignInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="springdependencyinjection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554980518817" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programowanie\workspaceIntelliJ\JavaObjectOrientedDesignInPractice\src\main\java\vehicleApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clients.App" />
+      <module name="JavaObjectOrientedDesignInPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f4b69a6-8269-4f6c-9939-10911fb2ffd5" name="Default Changelist" comment="" />
+      <created>1554925716176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554925716176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/asda.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaObjectOrientedDesignInPractice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.0.RELEASE/spring-core-4.1.0.RELEASE.jar!/org/springframework/core/io/ClassPathResource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parts/LargeEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parts/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parts/SmallEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vehicles/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clients/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaObjectOrientedDesignInPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-jcl:5.1.6.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
